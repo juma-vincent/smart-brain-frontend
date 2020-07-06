@@ -9,13 +9,6 @@ import SignIn from "./components/SignIn/SignIn";
 import Register from "./components/Register/Register";
 import Particles from "react-particles-js";
 
-// "scripts": {
-//   "start": "react-scripts start",
-//   "build": "react-scripts build",
-//   "test": "react-scripts test",
-//   "eject": "react-scripts eject"
-// },
-
 const particlesOption = {
   particles: {
     number: {
